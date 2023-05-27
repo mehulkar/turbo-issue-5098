@@ -5,4 +5,5 @@
 ```
 npm install
 npm -w docs run build
+echo $?
 ```
